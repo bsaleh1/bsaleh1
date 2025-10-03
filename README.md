@@ -56,8 +56,8 @@
 ---
 
 ## 🌟 Stats & Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-![Batool’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsaleh1&layout=compact&theme=tokyonight)  
+![Batool’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bsaleh1&show_icons=true&theme=tokyonight)
 
 ---
 
