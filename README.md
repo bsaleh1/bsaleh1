@@ -1,16 +1,16 @@
 # Hi, I’m **Batool Saleh :3**  
 
-🎓 **B.Sc. Computing Science & Mathematics (Double Major)** · University of Alberta (2027)  
-🎮 Aspiring **Gameplay · Animation · Tools Engineer** | Math + CS applied to **Game Systems & 3D Pipelines**  
-🌍 Passionate about combining **3D math, physics, and programming** to build immersive interactive experiences.  
+**B.Sc. Computing Science & Mathematics (Double Major)** · University of Alberta (2027)  
+Aspiring **Gameplay · Animation · Tools Engineer** | Math + CS applied to **Game Systems & 3D Pipelines**  
+Passionate about combining **3D math, physics, and programming** to build immersive interactive experiences.  
 
 ---
 
 ## About Me
-- 🔢 Strong foundation in **3D Math & Linear Algebra** (Quaternions, Eigenvalues, Differential Geometry).  
-- 🎮 Built **custom gravity & planetary movement systems** in Unity.  
-- 🦅 Developed **procedural Blender Python tools** (feathers + textures) for optimized runtime assets.  
-- 🔬 Exploring **mesh segmentation & curvature analysis** with machine learning + geometry.  
+- Strong foundation in **3D Math & Linear Algebra** (Quaternions, Eigenvalues, Differential Geometry).  
+- Built **custom gravity & planetary movement systems** in Unity.  
+- Developed **procedural Blender Python tools** (feathers + textures) for optimized runtime assets.  
+- Exploring **mesh segmentation & curvature analysis** with machine learning + geometry.  
 
 ---
 
@@ -30,26 +30,26 @@
 
 ## Featured Projects
 
-### 🪐 Planetary FPS Controller (Unity/C#)  
+### Planetary FPS Controller (Unity/C#)  
 - Implemented **custom gravity** on a spherical planet.  
 - Used **quaternions + Euler rotations** for smooth orientation and camera alignment.  
 
 ---
 
-### 🦅 Procedural Raven Asset (Blender + Unity)  
+### Procedural Raven Asset (Blender + Unity)  
 - Modeled, rigged, and animated a raven with a full flight cycle.  
 - Scripted **Blender Python tools** for **procedural feathers + textures**, reducing each feather from thousands of polygons to a single plane for real-time performance.  
 - Exported into Unity for animation cycles and testing.  
 
 ---
 
-### 📊 Mesh Curvature Analysis (ML + Geometry)  
+### Mesh Curvature Analysis (ML + Geometry)  
 - Applied **differential geometry** + ML to classify mesh regions by curvature.  
 - Explored applications in **automated topology repair**.  
 
 ---
 
-## 📚 Relevant Coursework
+## Relevant Coursework
 **Mathematics:** Linear Algebra I–III, Differential Geometry, Multivariable Calculus (Calc IV), Numerical Methods, Real Analysis  
 **Computing Science:** Data Structures & Algorithms, Software Engineering, Databases, Machine Learning, Computer Graphics, Systems Programming, Game Development  
 
