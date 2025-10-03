@@ -1,4 +1,4 @@
-# Hi, I’m **Batool Saleh :3 **  
+# Hi, I’m **Batool Saleh :3**  
 
 🎓 **B.Sc. Computing Science & Mathematics (Double Major)** · University of Alberta (2027)  
 🎮 Aspiring **Gameplay · Animation · Tools Engineer** | Math + CS applied to **Game Systems & 3D Pipelines**  
