@@ -55,12 +55,6 @@
 
 ---
 
-## Stats & Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsaleh1&layout=compact&theme=tokyonight&exclude_repo=your-repo-to-ignore&hide=html,css)
-![Batool’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bsaleh1&show_icons=true&theme=tokyonight)
-
----
-
 ## Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batool-saleh009)  
 📧 **Email:** batoolsaleh009@gmail.com
