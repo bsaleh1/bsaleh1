@@ -43,6 +43,14 @@ Passionate about combining **3D math, physics, and programming** to build immers
 
 ---
 
+### Zombie Game (C++ / Raylib)
+A small 3D zombie survival prototype built in C++ using Raylib.  
+Features custom 3D asset integration, animated `.glb` model, and basic shooting mechanics.
+
+[View Project on GitHub →](https://github.com/bsaleh1/ZombieGame)
+
+---
+
 ### Mesh Curvature Analysis (ML + Geometry)  
 - Applied **differential geometry** + ML to classify mesh regions by curvature.  
 - Explored applications in **automated topology repair**.  
@@ -60,3 +68,4 @@ Passionate about combining **3D math, physics, and programming** to build immers
 📧 **Email:** batoolsaleh009@gmail.com
 
 ---
+
