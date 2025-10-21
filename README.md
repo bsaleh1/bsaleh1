@@ -30,9 +30,10 @@ Passionate about combining **3D math, physics, and programming** to build immers
 
 ## Featured Projects
 
-### Planetary FPS Controller (Unity/C#)  
+### Planetary FPS Controller (Unity/C#) 
 - Implemented **custom gravity** on a spherical planet.  
-- Used **quaternions + Euler rotations** for smooth orientation and camera alignment.  
+- Used **quaternions + Euler rotations** for smooth orientation and camera alignment.
+- [View an Example of My Work on GitHub →] (https://github.com/bsaleh1/abundant-intelligences-showcase)
 
 ---
 
