@@ -41,7 +41,8 @@ Passionate about combining **3D math, physics, and programming** to build immers
 ### Procedural Raven Asset (Blender + Unity)  
 - Modeled, rigged, and animated a raven with a full flight cycle.  
 - Scripted **Blender Python tools** for **procedural feathers + textures**, reducing each feather from thousands of polygons to a single plane for real-time performance.  
-- Exported into Unity for animation cycles and testing.  
+- Exported into Unity for animation cycles and testing.
+- *[ArtStation link coming soon]*  
 
 ---
 
@@ -55,7 +56,8 @@ Features custom 3D asset integration, animated `.glb` model, and basic shooting 
 
 ### Mesh Curvature Analysis (ML + Geometry)  
 - Applied **differential geometry** + ML to classify mesh regions by curvature.  
-- Explored applications in **automated topology repair**.  
+- Explored applications in **automated topology repair**.
+- *[Repository link coming soon]*  
 
 ---
 
