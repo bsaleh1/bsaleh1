@@ -67,7 +67,8 @@ Features custom 3D asset integration, animated `.glb` model, and basic shooting 
 
 ## Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batool-saleh009)  
-📧 **Email:** batoolsaleh009@gmail.com
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=white)](https://www.artstation.com/batoolsal)
+[![Email](https://img.shields.io/badge/Email-batoolsaleh009%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:batoolsaleh009@gmail.com)
 
 ---
 
