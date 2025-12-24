@@ -57,7 +57,7 @@ Features custom 3D asset integration, animated `.glb` model, and basic shooting 
 ### Mesh Curvature Analysis (ML + Geometry)  
 - Applied **differential geometry** + ML to classify mesh regions by curvature.  
 - Explored applications in **automated topology repair**.
-- *[Repository link coming soon]*  
+- [View Project on GitHub →](https://github.com/bsaleh1/Mesh-Curvature-Analysis)
 
 ---
 
