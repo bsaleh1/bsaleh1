@@ -1,17 +1,7 @@
-# Hi, I’m **Batool Saleh :3**  
+# Hi, I’m **Batool Saleh**  
 
 **B.Sc. Computing Science & Mathematics (Double Major)** · University of Alberta (2027)  
-Aspiring **Gameplay · Animation · Tools Engineer** | Math + CS applied to **Game Systems & 3D Pipelines**  
 Passionate about combining **3D math, physics, and programming** to build immersive interactive experiences.  
-
----
-
-## About Me
-- Strong foundation in **3D Math & Linear Algebra** (Quaternions, Eigenvalues, Differential Geometry).  
-- Built **custom gravity & planetary movement systems** in Unity.  
-- Developed **procedural Blender Python tools** (feathers + textures) for optimized runtime assets.  
-- Exploring **mesh segmentation & curvature analysis** with machine learning + geometry.  
-
 ---
 
 ## Tech Stack
@@ -42,7 +32,6 @@ Passionate about combining **3D math, physics, and programming** to build immers
 - Modeled, rigged, and animated a raven with a full flight cycle.  
 - Scripted **Blender Python tools** for **procedural feathers + textures**, reducing each feather from thousands of polygons to a single plane for real-time performance.  
 - Exported into Unity for animation cycles and testing.
-- *[ArtStation link coming soon]*  
 
 ---
 
@@ -59,11 +48,6 @@ Features custom 3D asset integration, animated `.glb` model, and basic shooting 
 - Explored applications in **automated topology repair**.
 - [View Project on GitHub →](https://github.com/bsaleh1/Mesh-Curvature-Analysis)
 
----
-
-## Relevant Coursework
-**Mathematics:** Linear Algebra I–III, Differential Geometry, Multivariable Calculus (Calc IV), Numerical Methods, Real Analysis  
-**Computing Science:** Data Structures & Algorithms, Software Engineering, Databases, Machine Learning, Computer Graphics, Systems Programming, Game Development  
 
 ---
 
