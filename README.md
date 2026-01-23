@@ -1,7 +1,6 @@
 # Hi, I’m **Batool Saleh**  
 
 **B.Sc. Computing Science & Mathematics (Double Major)** · University of Alberta (2027)  
-Passionate about combining **3D math, physics, and programming** to build immersive interactive experiences.  
 ---
 
 ## Tech Stack
