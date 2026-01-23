@@ -19,6 +19,11 @@
 
 ## Featured Projects
 
+### Fixed Income Analysis (Python/PowerBI) 
+https://github.com/bsaleh1/fixed-income-analytics
+- [View the Main Project Repository →](https://github.com/bsaleh1/fixed-income-analytics)
+---
+
 ### Planetary FPS Controller (Unity/C#) 
 - Implemented **custom gravity** on a spherical planet.  
 - Used **quaternions + Euler rotations** for smooth orientation and camera alignment.
