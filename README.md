@@ -19,8 +19,7 @@
 
 ## Featured Projects
 
-### Fixed Income Analysis (Python/PowerBI) 
-https://github.com/bsaleh1/fixed-income-analytics
+### interest rate risk modelling(Python/PowerBI) 
 - [View the Main Project Repository →](https://github.com/bsaleh1/fixed-income-analytics)
 ---
 
